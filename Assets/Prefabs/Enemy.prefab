@@ -47,8 +47,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cbc3e363431431d4bb2634eea2d71d5e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  maxHp: 100
   hp: 100
   moveSpeed: 2
+  bodySprite: {fileID: 8314932116843289813}
   waypoints: []
 --- !u!212 &8314932116843289813
 SpriteRenderer:
@@ -92,7 +94,7 @@ SpriteRenderer:
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: -1077321681
-  m_SortingLayer: 3
+  m_SortingLayer: 4
   m_SortingOrder: 0
   m_Sprite: {fileID: -4030792056451597264, guid: 7b6b51f30cbd98847830c5114ddc652c, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
