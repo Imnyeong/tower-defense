@@ -3,15 +3,20 @@ using System.Collections.Generic;
 
 public class Enemy : MonoBehaviour
 {
-    public float moveSpeed;
+    [Header("Status")]
+    public int maxHp = 100;
+    public int hp;
+    public float moveSpeed = 2.0f;
+
     private int waypointIndex = 0;
     public List<Vector3> waypoints;
 
     public void Init()
     {
+        hp = maxHp;
         waypointIndex = 0;
         waypoints = EnemySpawner.instance.waypoints;
-        gameObject.transform.localPosition = waypoints[0];
+        gameObject.transform.position = waypoints[0];
     }
     void Update()
     {
@@ -26,6 +31,14 @@ public class Enemy : MonoBehaviour
             {
                 waypointIndex++;
             }
+        }
+    }
+    public void TakeDamage(int amount)
+    {
+        hp -= amount;
+        if (hp <= 0)
+        {
+            EnemySpawner.instance.ReturnToPool(gameObject);
         }
     }
 }

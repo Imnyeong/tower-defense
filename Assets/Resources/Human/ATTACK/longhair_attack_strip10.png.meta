@@ -1,37 +1,37 @@
 fileFormatVersion: 2
-guid: 84c2146632eae0d47937b839311cfcf2
+guid: 188a53bcf8f704b4082b092c8b601ff0
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 7064163899126934532
-    second: spr_attack_strip10_0
+      213: -1814863852766036548
+    second: longhair_attack_strip10_0
   - first:
-      213: 8322903643884418079
-    second: spr_attack_strip10_1
+      213: -9101242012911705443
+    second: longhair_attack_strip10_1
   - first:
-      213: -8544681461018230626
-    second: spr_attack_strip10_2
+      213: 3752940071594625342
+    second: longhair_attack_strip10_2
   - first:
-      213: -7899706527787859095
-    second: spr_attack_strip10_3
+      213: -3702517146791778635
+    second: longhair_attack_strip10_3
   - first:
-      213: 3060006356065276297
-    second: spr_attack_strip10_4
+      213: -25874681608413070
+    second: longhair_attack_strip10_4
   - first:
-      213: -2234153108737575429
-    second: spr_attack_strip10_5
+      213: 7441491655751581783
+    second: longhair_attack_strip10_5
   - first:
-      213: 5827491174078391561
-    second: spr_attack_strip10_6
+      213: -2826210335302676635
+    second: longhair_attack_strip10_6
   - first:
-      213: 6103225565107341401
-    second: spr_attack_strip10_7
+      213: -4627126972375454379
+    second: longhair_attack_strip10_7
   - first:
-      213: 815666474501119206
-    second: spr_attack_strip10_8
+      213: -2842294739768025354
+    second: longhair_attack_strip10_8
   - first:
-      213: -764002075684125615
-    second: spr_attack_strip10_9
+      213: 8675280332278756450
+    second: longhair_attack_strip10_9
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -153,7 +153,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: spr_attack_strip10_0
+      name: longhair_attack_strip10_0
       rect:
         serializedVersion: 2
         x: 0
@@ -168,14 +168,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 40c699283a3f80260800000000000000
-      internalID: 7064163899126934532
+      spriteID: cbdfe2401fe40d6e0800000000000000
+      internalID: -1814863852766036548
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: spr_attack_strip10_1
+      name: longhair_attack_strip10_1
       rect:
         serializedVersion: 2
         x: 96
@@ -190,14 +190,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f14f88974c4e08370800000000000000
-      internalID: 8322903643884418079
+      spriteID: d9269851c94e1b180800000000000000
+      internalID: -9101242012911705443
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: spr_attack_strip10_2
+      name: longhair_attack_strip10_2
       rect:
         serializedVersion: 2
         x: 192
@@ -212,14 +212,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e90842d9b713b6980800000000000000
-      internalID: -8544681461018230626
+      spriteID: e390ab67c1f151430800000000000000
+      internalID: 3752940071594625342
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: spr_attack_strip10_3
+      name: longhair_attack_strip10_3
       rect:
         serializedVersion: 2
         x: 288
@@ -234,14 +234,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 963ce5574ca9e5290800000000000000
-      internalID: -7899706527787859095
+      spriteID: 5b6eea295440e9cc0800000000000000
+      internalID: -3702517146791778635
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: spr_attack_strip10_4
+      name: longhair_attack_strip10_4
       rect:
         serializedVersion: 2
         x: 384
@@ -256,14 +256,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 98155b77193577a20800000000000000
-      internalID: 3060006356065276297
+      spriteID: 270ed0a3d1314aff0800000000000000
+      internalID: -25874681608413070
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: spr_attack_strip10_5
+      name: longhair_attack_strip10_5
       rect:
         serializedVersion: 2
         x: 480
@@ -278,14 +278,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: bf5bcdba591bef0e0800000000000000
-      internalID: -2234153108737575429
+      spriteID: 7504b14fb3d754760800000000000000
+      internalID: 7441491655751581783
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: spr_attack_strip10_6
+      name: longhair_attack_strip10_6
       rect:
         serializedVersion: 2
         x: 576
@@ -300,14 +300,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 905aaa2f8586fd050800000000000000
-      internalID: 5827491174078391561
+      spriteID: 56f0fb78ca847c8d0800000000000000
+      internalID: -2826210335302676635
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: spr_attack_strip10_7
+      name: longhair_attack_strip10_7
       rect:
         serializedVersion: 2
         x: 672
@@ -322,14 +322,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 9584e40b05303b450800000000000000
-      internalID: 6103225565107341401
+      spriteID: 55daee0c88429cfb0800000000000000
+      internalID: -4627126972375454379
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: spr_attack_strip10_8
+      name: longhair_attack_strip10_8
       rect:
         serializedVersion: 2
         x: 768
@@ -344,8 +344,30 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 6ec95d34654d15b00800000000000000
-      internalID: 815666474501119206
+      spriteID: 6fe5a294ef32e88d0800000000000000
+      internalID: -2842294739768025354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longhair_attack_strip10_9
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 0
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2647864af79c46870800000000000000
+      internalID: 8675280332278756450
       vertices: []
       indices: 
       edges: []
@@ -354,7 +376,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 98c2be26d0a653b43881b0475e6cf73d
+    spriteID: e694825cb3323ad4f83ad9e859dd5650
     internalID: 0
     vertices: []
     indices: 
@@ -364,15 +386,16 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      spr_attack_strip10_0: 7064163899126934532
-      spr_attack_strip10_1: 8322903643884418079
-      spr_attack_strip10_2: -8544681461018230626
-      spr_attack_strip10_3: -7899706527787859095
-      spr_attack_strip10_4: 3060006356065276297
-      spr_attack_strip10_5: -2234153108737575429
-      spr_attack_strip10_6: 5827491174078391561
-      spr_attack_strip10_7: 6103225565107341401
-      spr_attack_strip10_8: 815666474501119206
+      longhair_attack_strip10_0: -1814863852766036548
+      longhair_attack_strip10_1: -9101242012911705443
+      longhair_attack_strip10_2: 3752940071594625342
+      longhair_attack_strip10_3: -3702517146791778635
+      longhair_attack_strip10_4: -25874681608413070
+      longhair_attack_strip10_5: 7441491655751581783
+      longhair_attack_strip10_6: -2826210335302676635
+      longhair_attack_strip10_7: -4627126972375454379
+      longhair_attack_strip10_8: -2842294739768025354
+      longhair_attack_strip10_9: 8675280332278756450
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

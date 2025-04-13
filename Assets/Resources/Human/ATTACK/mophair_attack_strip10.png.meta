@@ -1,37 +1,37 @@
 fileFormatVersion: 2
-guid: 84c2146632eae0d47937b839311cfcf2
+guid: ce7eae7183f4eb44497de172f9cf14dd
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 7064163899126934532
-    second: spr_attack_strip10_0
+      213: -3610238196450312362
+    second: mophair_attack_strip10_0
   - first:
-      213: 8322903643884418079
-    second: spr_attack_strip10_1
+      213: 1290898331825964485
+    second: mophair_attack_strip10_1
   - first:
-      213: -8544681461018230626
-    second: spr_attack_strip10_2
+      213: 6687225170474504659
+    second: mophair_attack_strip10_2
   - first:
-      213: -7899706527787859095
-    second: spr_attack_strip10_3
+      213: 7743344010470686915
+    second: mophair_attack_strip10_3
   - first:
-      213: 3060006356065276297
-    second: spr_attack_strip10_4
+      213: -7580925351100024443
+    second: mophair_attack_strip10_4
   - first:
-      213: -2234153108737575429
-    second: spr_attack_strip10_5
+      213: 763343815014020203
+    second: mophair_attack_strip10_5
   - first:
-      213: 5827491174078391561
-    second: spr_attack_strip10_6
+      213: 3960504450331307659
+    second: mophair_attack_strip10_6
   - first:
-      213: 6103225565107341401
-    second: spr_attack_strip10_7
+      213: 6822519228810519039
+    second: mophair_attack_strip10_7
   - first:
-      213: 815666474501119206
-    second: spr_attack_strip10_8
+      213: -1416338323965520152
+    second: mophair_attack_strip10_8
   - first:
-      213: -764002075684125615
-    second: spr_attack_strip10_9
+      213: -5961868728193479957
+    second: mophair_attack_strip10_9
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -153,7 +153,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: spr_attack_strip10_0
+      name: mophair_attack_strip10_0
       rect:
         serializedVersion: 2
         x: 0
@@ -168,14 +168,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 40c699283a3f80260800000000000000
-      internalID: 7064163899126934532
+      spriteID: 65f380afc7bd5edc0800000000000000
+      internalID: -3610238196450312362
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: spr_attack_strip10_1
+      name: mophair_attack_strip10_1
       rect:
         serializedVersion: 2
         x: 96
@@ -190,14 +190,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f14f88974c4e08370800000000000000
-      internalID: 8322903643884418079
+      spriteID: 5c581ad71313ae110800000000000000
+      internalID: 1290898331825964485
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: spr_attack_strip10_2
+      name: mophair_attack_strip10_2
       rect:
         serializedVersion: 2
         x: 192
@@ -212,14 +212,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e90842d9b713b6980800000000000000
-      internalID: -8544681461018230626
+      spriteID: 3d11f23bcdbcdcc50800000000000000
+      internalID: 6687225170474504659
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: spr_attack_strip10_3
+      name: mophair_attack_strip10_3
       rect:
         serializedVersion: 2
         x: 288
@@ -234,14 +234,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 963ce5574ca9e5290800000000000000
-      internalID: -7899706527787859095
+      spriteID: 3c001cdf952e57b60800000000000000
+      internalID: 7743344010470686915
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: spr_attack_strip10_4
+      name: mophair_attack_strip10_4
       rect:
         serializedVersion: 2
         x: 384
@@ -256,14 +256,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 98155b77193577a20800000000000000
-      internalID: 3060006356065276297
+      spriteID: 589fde20f842bc690800000000000000
+      internalID: -7580925351100024443
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: spr_attack_strip10_5
+      name: mophair_attack_strip10_5
       rect:
         serializedVersion: 2
         x: 480
@@ -278,14 +278,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: bf5bcdba591bef0e0800000000000000
-      internalID: -2234153108737575429
+      spriteID: b64f667c721f79a00800000000000000
+      internalID: 763343815014020203
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: spr_attack_strip10_6
+      name: mophair_attack_strip10_6
       rect:
         serializedVersion: 2
         x: 576
@@ -300,14 +300,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 905aaa2f8586fd050800000000000000
-      internalID: 5827491174078391561
+      spriteID: b8ee95d50d986f630800000000000000
+      internalID: 3960504450331307659
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: spr_attack_strip10_7
+      name: mophair_attack_strip10_7
       rect:
         serializedVersion: 2
         x: 672
@@ -322,14 +322,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 9584e40b05303b450800000000000000
-      internalID: 6103225565107341401
+      spriteID: ff1e58267157eae50800000000000000
+      internalID: 6822519228810519039
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: spr_attack_strip10_8
+      name: mophair_attack_strip10_8
       rect:
         serializedVersion: 2
         x: 768
@@ -344,8 +344,30 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 6ec95d34654d15b00800000000000000
-      internalID: 815666474501119206
+      spriteID: 8e653466cc7285ce0800000000000000
+      internalID: -1416338323965520152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mophair_attack_strip10_9
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 0
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bea8482aaff234da0800000000000000
+      internalID: -5961868728193479957
       vertices: []
       indices: 
       edges: []
@@ -354,7 +376,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 98c2be26d0a653b43881b0475e6cf73d
+    spriteID: 5d8f15425264d044d969c656cf1da31a
     internalID: 0
     vertices: []
     indices: 
@@ -364,15 +386,16 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      spr_attack_strip10_0: 7064163899126934532
-      spr_attack_strip10_1: 8322903643884418079
-      spr_attack_strip10_2: -8544681461018230626
-      spr_attack_strip10_3: -7899706527787859095
-      spr_attack_strip10_4: 3060006356065276297
-      spr_attack_strip10_5: -2234153108737575429
-      spr_attack_strip10_6: 5827491174078391561
-      spr_attack_strip10_7: 6103225565107341401
-      spr_attack_strip10_8: 815666474501119206
+      mophair_attack_strip10_0: -3610238196450312362
+      mophair_attack_strip10_1: 1290898331825964485
+      mophair_attack_strip10_2: 6687225170474504659
+      mophair_attack_strip10_3: 7743344010470686915
+      mophair_attack_strip10_4: -7580925351100024443
+      mophair_attack_strip10_5: 763343815014020203
+      mophair_attack_strip10_6: 3960504450331307659
+      mophair_attack_strip10_7: 6822519228810519039
+      mophair_attack_strip10_8: -1416338323965520152
+      mophair_attack_strip10_9: -5961868728193479957
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
